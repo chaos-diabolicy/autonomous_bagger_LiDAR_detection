@@ -1,0 +1,2 @@
+# autonomous_bagger_LiDAR_detection
+在深基础项目中运用激光雷达检测智能挖掘机工作场景的模块代码
